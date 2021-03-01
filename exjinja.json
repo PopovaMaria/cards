@@ -57,11 +57,11 @@
         "size": "d2"
       },
       "actions": [
-        {
-          "type": "text",
-          "text": "Маяковсокого 56"
+    {
+        "type": "deep_link",
+        "deep_link": "<диплинк на адрес>"
         }
-      ],
+    ],
       "left": {
         "type": "simple_left_view",
         "texts": {
@@ -85,11 +85,11 @@
         "size": "d2"
       },
       "actions": [
-        {
-          "type": "text",
-          "text": "Победы 9"
+    {
+        "type": "deep_link",
+        "deep_link": "<диплинк на адрес>"
         }
-      ],
+    ],
       "left": {
         "type": "simple_left_view",
         "texts": {
@@ -113,11 +113,11 @@
         "size": "d2"
       },
       "actions": [
-        {
-          "type": "text",
-          "text": "Мира 3"
+    {
+        "type": "deep_link",
+        "deep_link": "<диплинк на адрес>"
         }
-      ],
+    ],
       "left": {
         "type": "simple_left_view",
         "texts": {
@@ -132,3 +132,6 @@
     }
   ]
 }
+
+
+

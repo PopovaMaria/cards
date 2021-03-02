@@ -115,7 +115,7 @@
       "actions": [
     {
         "type": "deep_link",
-        "deep_link": "<диплинк на адрес>"
+        "deep_link": "https://raw.githubusercontent.com/PopovaMaria/cards/master/test_card.json"
         }
     ],
       "left": {
